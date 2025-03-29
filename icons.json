@@ -841,6 +841,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/eufy.svg",
+            "name": "Eufy",
+            "source": "https://www.eufy.com",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/excalidraw.svg",
             "name": "Excalidraw",
             "source": "https://github.com/excalidraw/excalidraw/blob/master/public/favicon.svg",
@@ -1237,6 +1243,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/hoarder.svg",
+            "name": "Hoarder",
+            "source": "https://github.com/hoarder-app/hoarder/blob/main/apps/landing/public/icons/logo-icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/homarr.svg",
             "name": "Homarr",
             "source": "https://github.com/ajnart/homarr/blob/dev/public/imgs/logo/logo.svg",
@@ -1265,6 +1277,12 @@
             "name": "Homebrew",
             "source": "https://github.com/Homebrew/brew.sh/blob/master/assets/img/homebrew.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/homebridge.svg",
+            "name": "Homebridge",
+            "source": "https://github.com/homebridge/branding/blob/latest/logos/homebridge-color-round.svg",
+            "guidelines": "https://github.com/homebridge/branding/tree/latest"
         },
         {
             "path": "./assets/homer.svg",
@@ -1837,6 +1855,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/metube.svg",
+            "name": "MeTube",
+            "source": "https://github.com/alexta69/metube/blob/master/metube.ai",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/microsoft.svg",
             "name": "Microsoft",
             "source": "https://en.wikipedia.org/wiki/Microsoft",
@@ -2329,6 +2353,12 @@
             "guidelines": "https://www.paloaltonetworks.com/company/brand"
         },
         {
+            "path": "./assets/pangolin.svg",
+            "name": "Pangolin",
+            "source": "https://github.com/fosrl/pangolin/blob/main/public/logo/pangolin_orange.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/paperlessng.svg",
             "name": "Paperless-ng",
             "source": "https://github.com/jonaswinkler/paperless-ng/blob/master/src-ui/src/assets/logo.svg",
@@ -2387,6 +2417,18 @@
             "name": "PiKVM",
             "source": "https://pikvm.org/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/pingvin-share.svg",
+            "name": "Pingvin Share",
+            "source": "https://github.com/stonith404/pingvin-share",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/pixelfed.svg",
+            "name": "PixelFed",
+            "source": "https://github.com/pixelfed/brand-assets/blob/master/logo/logo.svg",
+            "guidelines": "https://github.com/pixelfed/brand-assets"
         },
         {
             "path": "./assets/plane.svg",
@@ -2539,9 +2581,15 @@
             "guidelines": "https://marketing.qnap.com/logo/"
         },
         {
-            "path": "./assets/radarr.svg",
-            "name": "Radarr",
+            "path": "./assets/radarr-dark.svg",
+            "name": "Radarr (dark)",
             "source": "https://github.com/Radarr/Radarr/blob/develop/Logo/Radarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/radarr-light.svg",
+            "name": "Radarr (light)",
+            "source": "https://github.com/Radarr/Radarr/blob/develop/frontend/src/Content/Images/logo.svg",
             "guidelines": ""
         },
         {
