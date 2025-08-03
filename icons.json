@@ -31,6 +31,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/adminer.svg",
+            "name": "Adminer",
+            "source": "https://github.com/loganmarchione/homelab-svg-assets/issues/56#issuecomment-2878003842",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adminerevo.svg",
             "name": "AdminerEvo",
             "source": "https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg",
@@ -118,6 +124,24 @@
             "path": "./assets/antennas.svg",
             "name": "Antennas",
             "source": "https://github.com/jfarseneau/antennas/blob/main/public/images/Antennas-Logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-black.svg",
+            "name": "Anthropic (black)",
+            "source": "https://www.anthropic.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-white.svg",
+            "name": "Anthropic (white)",
+            "source": "https://www.anthropic.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-claude.svg",
+            "name": "Anthropic Claude",
+            "source": "https://claude.ai/",
             "guidelines": ""
         },
         {
@@ -1003,6 +1027,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/garage.svg",
+            "name": "Garage",
+            "source": "https://git.deuxfleurs.fr/Deuxfleurs/garage/src/branch/main-v1/doc/logo/garage-notext.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gatsby.svg",
             "name": "Gatsby",
             "source": "https://www.gatsbyjs.com/guidelines/logo",
@@ -1133,6 +1163,12 @@
             "name": "Go (blue)",
             "source": "https://go.dev/blog/go-brand",
             "guidelines": "https://go.dev/blog/go-brand"
+        },
+        {
+            "path": "./assets/goaccess.svg",
+            "name": "GoAccess",
+            "source": "https://github.com/allinurl/goaccess/blob/master/resources/goaccess.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/gogs.svg",
@@ -3181,6 +3217,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tubearchivist-black.svg",
+            "name": "Tube Archivist (black)",
+            "source": "https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tubearchivist-white.svg",
+            "name": "Tube Archivist (white)",
+            "source": "https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-dark.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/tubesync.svg",
             "name": "TubeSync",
             "source": "https://github.com/meeb/tubesync/blob/main/tubesync/common/templates/tubesync-coloured.svg",
@@ -3301,6 +3349,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/virtualmin.svg",
+            "name": "Virtualmin",
+            "source": "https://www.virtualmin.com/press-kit/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/visualstudiocode.svg",
             "name": "Visual Studio Code",
             "source": "https://code.visualstudio.com/brand",
@@ -3377,6 +3431,12 @@
             "name": "WebGPU",
             "source": "https://www.w3.org/2023/02/webgpu-logos.html",
             "guidelines": "https://www.w3.org/2023/02/webgpu-logos.html"
+        },
+        {
+            "path": "./assets/webmin.svg",
+            "name": "Webmin",
+            "source": "https://webmin.com/",
+            "guidelines": ""
         },
         {
             "path": "./assets/wekan.svg",
