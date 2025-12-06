@@ -2071,6 +2071,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/netbird.svg",
+            "name": "NetBird",
+            "source": "https://netbird.io/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/netdata.svg",
             "name": "Netdata",
             "source": "https://github.com/netdata/netdata/blob/master/web/gui/dashboard/images/netdata-logomark.svg",
@@ -2191,6 +2197,12 @@
             "guidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
         },
         {
+            "path": "./assets/nzbget.svg",
+            "name": "NZBGet",
+            "source": "https://github.com/nzbgetcom/nzbget/blob/develop/webui/img/nzbget.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/obsstudio.svg",
             "name": "OBS Studio",
             "source": "https://github.com/obsproject/obs-studio/blob/master/UI/xdg-data/icons/obs-logo-scalable.svg",
@@ -2260,6 +2272,18 @@
             "path": "./assets/openbsd.svg",
             "name": "OpenBSD",
             "source": "https://en.wikipedia.org/wiki/OpenBSD",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openccu.svg",
+            "name": "OpenCCU (formerly RaspberryMatic)",
+            "source": "https://github.com/OpenCCU/OpenCCU/blob/master/buildroot-external/overlay/WebUI-openccu/www/ise/img/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opencloud.svg",
+            "name": "OpenCloud",
+            "source": "https://opencloud.eu/en/about-us/press",
             "guidelines": ""
         },
         {
@@ -2879,6 +2903,12 @@
             "name": "Snapchat",
             "source": "https://en.wikipedia.org/wiki/Snapchat",
             "guidelines": "https://www.snap.com/en-US/brand-guidelines"
+        },
+        {
+            "path": "./assets/softwarefreedomconservancy.svg",
+            "name": "Software Freedom Conservancy (SFC)",
+            "source": "https://sfconservancy.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/softwareinthepublicinterest.svg",
@@ -3634,6 +3664,12 @@
             "path": "./assets/zoneminder.svg",
             "name": "ZoneMinder",
             "source": "https://github.com/ZoneMinder/zoneminder.github.io/blob/master/images/SVGs/Logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/zoraxy.svg",
+            "name": "Zoraxy",
+            "source": "https://github.com/tobychui/zoraxy/blob/main/src/web/img/public/icon.svg",
             "guidelines": ""
         }
     ]
