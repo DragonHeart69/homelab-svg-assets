@@ -4,7 +4,8 @@
 <a href="https://github.com/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets??label=Repo%20Size" alt="Repo Size"/></a>
 
 
-[![Lint](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/main.yml/badge.svg)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/main.yml)
+[![Lint](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/lint.yml/badge.svg)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/lint.yml)
+[![Publish Package](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/publish.yml)
 [![Lint](https://img.shields.io/github/stars/loganmarchione/homelab-svg-assets?style=social)](https://github.com/loganmarchione/homelab-svg-assets/stargazers)
 
 
@@ -161,3 +162,4 @@ It would be remiss of me if I did not mention other great icons sets
 - [Devicon](https://devicon.dev/) - Icons representing programming languages, designing & development tools
 - [Dashboard Icons](https://github.com/walkxcode/dashboard-icons/tree/main) - Mix of SVG and PNG dashboard icons
 - [Aegis Icons](https://github.com/aegis-icons/aegis-icons) - Unofficial 2FA entry icons for open source Android authenticator Aegis
+- [theSVG](https://www.thesvg.org/)

@@ -2,8 +2,10 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended",
-    "schedule:nonOfficeHours"
+    "schedule:nonOfficeHours",
+    "helpers:pinGitHubActionDigests"
   ],
+  "timezone": "America/New_York",
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Renovate Dashboard",
   "labels": [
